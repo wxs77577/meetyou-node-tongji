@@ -1,0 +1,32 @@
+{
+  "name": "meetyou-node-tongji",
+  "version": "1.0.0",
+  "description": "百度tongji API的node版本，支持node 6以上版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linweiwei123/meetyou-node-tongji.git"
+  },
+  "keywords": [
+    "node.js",
+    "baidu",
+    "tongji",
+    "API",
+    "meetyou"
+  ],
+  "author": "yitalalww@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linweiwei123/meetyou-node-tongji/issues"
+  },
+  "homepage": "https://github.com/linweiwei123/meetyou-node-tongji#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mz": "^2.6.0",
+    "node-fetch": "^1.7.1",
+    "winston": "^3.0.0-rc1"
+  }
+}
