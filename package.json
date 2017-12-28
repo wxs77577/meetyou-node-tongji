@@ -1,6 +1,6 @@
 {
   "name": "meetyou-node-tongji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "百度tongji API的node版本，支持node 6以上版本",
   "main": "index.js",
   "scripts": {
